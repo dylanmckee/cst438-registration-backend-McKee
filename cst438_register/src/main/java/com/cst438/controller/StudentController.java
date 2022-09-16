@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class StudentController {
 
-	@PostMapping("/student")
-	public String createNewStudent() {
-		return "student id = 12398";
-		
-	}
+//	@PostMapping("/student")
+//	public String createNewStudent() {
+//		return "student id = 12398";
+//		
+//	}
 	
 }
